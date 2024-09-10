@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="giphy.gif" width=120% />
+  Bio-based solutions, computational power, and 8 hours of sleep can change the world 🌱⚙️
+</p>
+
+---
+
+
 # 💫 About Me:
 🔭 I’m currently working on : Making a Antimicrobial Resistance Pipeline<br>👯 I’m looking to collaborate on : Bioinformatic and Data Science Topics<br>🌱 I’m currently learning : Scikit-Learn and R Statistics<br>💬 Ask me about : Synthetic Biology 
 
