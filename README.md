@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="giphy.gif" width=50% />
-  <br /> 
-  Bio-based solutions, computational power, and 8 hours of sleep can change the world 🌱⚙️
+    Bio-based solutions, computational power, and 8 hours of sleep can change the world 🌱⚙️
 </p>
 
 ---
+
 
 
 # 💫 About Me:
